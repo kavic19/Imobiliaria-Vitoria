@@ -1,2 +1,2 @@
 # Imobiliaria-Vitoria
-Tua casa e sua conquista e nossa vitória.
+Tua casa é sua conquista e nossa vitória.
